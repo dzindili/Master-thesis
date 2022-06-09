@@ -4,4 +4,17 @@ This is the repository for the master thesis for Data Science at UvA. This proje
 
 The files in this repo are as follow:
 
-model-thesis.ip
+**Python code:**
+* model-thesis.ipynb = code of the final model that was used 
+* EDA.ipynb = code for the exploratory data analysis 
+* Data_Simulation.ipynb = code for simulating data with GPT-2
+* tsv_to_csv.ipynb = code to transform data from tsv to csv 
+* ADD TEXT LEVEL 
+
+
+**Data:**
+* odeuropadata.csv = labelled data from Odeuropa benchmark data 
+* simdata.csv = simulated data with the labels 
+* sim&anno.csv = Odeuropa and simulated data combined 
+* textdata.csv = documents from Odeuropa (used for EDA)
+* word_level.csv = data used for the token level model 
