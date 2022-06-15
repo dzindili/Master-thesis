@@ -6,10 +6,11 @@ The files in this repo are as follow:
 
 **Python code:**
 * model-thesis.ipynb = code of the final model that was used 
+* Model_wordlevel.ipynb = code for the final token-level model
 * EDA.ipynb = code for the exploratory data analysis 
 * Data_Simulation.ipynb = code for simulating data with GPT-2
 * tsv_to_csv.ipynb = code to transform data from tsv to csv 
-* ADD TEXT LEVEL 
+
 
 
 **Data:**
